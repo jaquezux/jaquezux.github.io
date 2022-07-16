@@ -1,4 +1,4 @@
-# jaquezux.github.io
+# **jaquezux.github.io**
 
 This is my personal website. It's my first project exploring Bootstrap framework.<br> 
 Here you can find more about my professional background as SEO and Data Analyst in Marketing agencies. <br>
@@ -23,5 +23,12 @@ _CSS_:
 _BOOTSTRAP_:
 - How to explore and combine style options.
 - How to use container, columns e margins.
+#
+
+## **Screenshots** ##
+<br>
+<img src="assets/screenshot1.png" alt="Jaqueline Bianco" width="600"/><br>
+<img src="assets/Screenshot_2.png" alt="Jaqueline Bianco" width="600"/>
+
 #
 I'm very interested in receive improvement suggestions for this project, so feel free to reach me! :)
